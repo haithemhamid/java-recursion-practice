@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.List;
-public class TASK9 {
+public class TASKNine {
 
         public static void main(String[] args) {
             List<String> fruits = Arrays.asList("Apple", "Banana", "Orange", "Grape", "Mango");
