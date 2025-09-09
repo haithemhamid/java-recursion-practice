@@ -1,4 +1,4 @@
-public class TRA5235 {
+public class TASK2 {
     public static void main(String[] args) {
         String original = "Hello World";
         String reversed=reverseStringRecursive(original);
