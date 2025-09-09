@@ -1,4 +1,4 @@
-public class TASK3 {
+public class TASKThree {
     public static void main(String[] args) {
         int[] numbers = {45, 12, 89, 6, 23, 99, 20};
         int max = Integer.MIN_VALUE;
