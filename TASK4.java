@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-public class TRA5264 {
+public class TASK4 {
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
             List<String> allergies = new ArrayList<>();
