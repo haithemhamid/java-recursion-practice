@@ -1,4 +1,4 @@
-public class TRA5273 {
+public class TASK5 {
     public static void main(String[] args) {
         int base = 3;
         int exponent = 4;
