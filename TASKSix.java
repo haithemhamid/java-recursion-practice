@@ -1,4 +1,4 @@
-public class TASK6 {
+public class TASKSix {
     public static void main(String[] args) {
         int count = 10;
         System.out.println("Generating the first " + count + " Fibonacci numbers iteratively...");
