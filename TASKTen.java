@@ -1,4 +1,4 @@
-public class TRA5313 {
+public class TASKTen {
     public static void main(String[] args) {
         int numRows = 5;
         System.out.println("Printing a descending star pattern with nested loops...");
