@@ -6,7 +6,6 @@ public class TRA5264 {
             Scanner scanner = new Scanner(System.in);
             List<String> allergies = new ArrayList<>();
             System.out.println("Enter allergies one by one. Press 'q' to quit.");
-            String input = "";
             allergies=collectInputsRecursive(scanner,new ArrayList<>());
             System.out.println("\n--- Collected Allergies ---");
             for (String allergy : allergies) {
