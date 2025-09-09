@@ -1,4 +1,4 @@
-public class TRA5280 {
+public class TASK6 {
     public static void main(String[] args) {
         int count = 10;
         System.out.println("Generating the first " + count + " Fibonacci numbers iteratively...");
