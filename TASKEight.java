@@ -1,4 +1,4 @@
-public class TASK8 {
+public class TASKEight {
     public static void main(String[] args) {
         int number = 12345;
         int sum = 0;
