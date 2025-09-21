@@ -1,4 +1,4 @@
-public class TASKFive {
+public class TaskFive {
     public static void main(String[] args) {
         int base = 3;
         int exponent = 4;
