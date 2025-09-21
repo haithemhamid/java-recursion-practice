@@ -1,4 +1,4 @@
-public class TASKSeven {
+public class TaskSeven {
     public static void main(String[] args) {
         String sentence = "recursion is replacing the repetition of loops";
         char target = 'r';
